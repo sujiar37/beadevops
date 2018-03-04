@@ -2,18 +2,18 @@
 title: BeaDevOps
 feature_text: |
   ## BeaDevOps
-  Choose a job you love and you'll never have to work a day in your life ~ Confucious
+  Choose a job you love and you'll never have to work a day in your life.
 feature_image: ./assets/beadevops_cover_pic.jpg
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "BeaDevOps would be helpful for someone who really keen to learn new tecnhnologies which demands in most IT sectors."
 ---
 
 A very walm welcome to **You** ~ *Sujith Abdul Rahim*
 
-I love DevOps art which brings more fun and challenges in work environments. BeaDevOps would be helpful for someone who really looking to learn new tecnhnologies which are trends in most IT sectors.
+I love DevOps arts which brings more fun and challenges in work environments. BeaDevOps would be helpful for someone who really keen to learn new tecnhnologies which demands in most IT sectors. More over , I love knowledge sharing and will try to keep filled up with good tech turtorials related with Linux & OpenSource.
 
 <!--
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
--->
+
 
 ## Features
 
@@ -84,3 +84,4 @@ When using Alembic as a theme means you can take advantage of the file overridin
 To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
 
 If you're just looking to set your own colours and fonts copy the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file into your project at the same file path (`_sass/_settings.scss`) and change variables however you wish. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+-->
