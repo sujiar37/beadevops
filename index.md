@@ -1,5 +1,5 @@
 ---
-title: BeaDevOps
+title:
 feature_text: |
   ## BeaDevOps
   Choose a job you love and you'll never have to work a day in your life.
