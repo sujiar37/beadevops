@@ -9,7 +9,7 @@ excerpt: "BeaDevOps would be helpful for someone who really keen to learn new te
 
 A very walm welcome to **You** ~ *Sujith Abdul Rahim*
 
-I love DevOps arts which brings more fun and challenges in work environments. BeaDevOps would be helpful for someone who really keen to learn new tecnhnologies which demands in most IT sectors. More over , I love knowledge sharing and will try to keep filled up with good tech turtorials related with Linux & OpenSource.
+I love DevOps arts which brings more fun and challenges in work environments. **BeaDevOps** would be helpful for someone who really keen to learn new technologies which demands in most IT sectors. More over , I love knowledge sharing and will try to keep filled up with good tech turtorials in here related with Linux & OpenSource.
 
 <!--
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
