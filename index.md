@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## BeaDevOps
   Choose a job you love and you'll never have to work a day in your life.
-feature_image: ./assets/beadevops_cover_pic.jpg
+feature_image: "https://unsplash.com/photos/fXTI0Ln4g1s"
 excerpt: "BeaDevOps would be helpful for someone who really keen to learn new tecnhnologies which demands in most IT sectors."
 ---
 
