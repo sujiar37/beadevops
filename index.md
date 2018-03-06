@@ -16,7 +16,7 @@ So, can't wait and let's jump into topics !!!!
 
 Connect Me via ,
 
-{% include button.html text="Github" icon="github" link="https://github.com/sujiar37" color="#0366d6" %} {% include button.html text="LinkedIN" icon="linkedin" link="https://linkedin.com/in/sujithar37" color="#0d94e7" %} {% include button.html text="Linux" icon="linux" link="https://www.beadevops.com/linux/lin_1.html" color="#0d94e7" %}
+{% include button.html text="Github" icon="github" link="https://github.com/sujiar37" color="#0366d6" %} {% include button.html text="LinkedIN" icon="linkedin" link="https://linkedin.com/in/sujithar37" color="#0d94e7" %} {% include button.html text="Linux" icon="linux" link="https://www.beadevops.com/linux/lin_1.html" color="#0d94e7" %} {% include button.html text="Kubernetes" icon="kubernetes" link="https://www.beadevops.com/linux/lin_1.html" color="#0d94e7" %}
 
 
 <!--
