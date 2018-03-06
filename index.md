@@ -13,9 +13,10 @@ I love DevOps arts which brings more fun and challenges in work environments. *B
 
 So, can't wait and let's jump into topics !!!!
 
+{% include button.html text="Kubernetes" icon="kubernetes" link="https://github.com/sujiar37" color="#0366d6" %}
 
 
-{% include button.html text="GitHub" icon="github" link="https://github.com/sujiar37" color="#0366d6" %} {% include button.html text="Facebook" icon="facebook" link="https://facebook.com/sujithar37" color="#0366d6" %}
+{% include button.html text="GitHub" icon="github" link="https://github.com/sujiar37" color="#0366d6" %} 
 
 
 <!--
