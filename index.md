@@ -13,7 +13,7 @@ Myself, *Sujith Abdul Rahim* and I extermely passionate about learning and under
 
 Pick up the topics and explore it ,
 
-{% include button.html text="Linux" icon="linux" link="https://www.beadevops.com/linux/lin_1.html" color="#0366d6" %} {% include button.html text="K8's" icon="kubernetes" link="https://www.beadevops.com/linux/lin_1.html" color="#0366d6" %}
+{% include button.html text="Linux" icon="linux" link="https://www.beadevops.com/404.md" color="#0366d6" %} {% include button.html text="K8's" icon="kubernetes" link="https://www.beadevops.com/linux/404.md" color="#0366d6" %} {% include button.html text="Docker" icon="docker" link="https://www.beadevops.com/404.md" color="#0366d6" %}
 
 
 
