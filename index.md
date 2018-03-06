@@ -7,16 +7,21 @@ feature_image: "https://images.unsplash.com/photo-1438480478735-3234e63615bb?ixl
 excerpt: "BeaDevOps would be helpful for someone who really keen to learn new tecnhnologies which demands in most IT sectors."
 ---
 
-A very walm welcome to **You** ~ *Sujith Abdul Rahim*
+A very walm welcome to My website ~ *Be* ~ *a* ~ *DevOps*
 
-I love DevOps arts which brings more fun and challenges in work environments. *BeaDevOps* would be helpful for someone who really keen to learn new technologies which demands in most IT sectors. More over , I love knowledge sharing and will try to keep up filled with good tech turtorials in here related with Linux & OpenSource stuffs.
+Myself, *Sujith Abdul Rahim* and I extermely passionate about learning and understanding differnet kind of DevOps concepts, tools and their activities. I hope this site and it's contents would be helpful for outside peoples who really keen to learn interesting stuffs related with these technolgies. More over, I love knowledge sharing and writing such tutorials helps me to get more deeper understanding about these topics. This site has been built through *Jkeyll* running under *docker containers* and contents are hosted in github. Happy Learning ~ *A fan boy of Linux & OpenSource*
 
-So, can't wait and let's jump into topics !!!!
+Pick up the topics and explore it ,
+
+{% include button.html text="Linux" icon="linux" link="https://www.beadevops.com/linux/lin_1.html" color="#0366d6" %} {% include button.html text="Kubernetes" icon="kubernetes" link="https://www.beadevops.com/linux/lin_1.html" color="#0366d6" %}
+
 
 
 Connect Me via ,
 
-{% include button.html text="Github" icon="github" link="https://github.com/sujiar37" color="#0366d6" %} {% include button.html text="LinkedIN" icon="linkedin" link="https://linkedin.com/in/sujithar37" color="#0d94e7" %} {% include button.html text="Linux" icon="linux" link="https://www.beadevops.com/linux/lin_1.html" color="#0d94e7" %} {% include button.html text="Kubernetes" icon="kubernetes" link="https://www.beadevops.com/linux/lin_1.html" color="#0d94e7" %}
+{% include button.html text="Github" icon="github" link="https://github.com/sujiar37" color="#0d94e7" %}
+{% include button.html text="LinkedIN" icon="linkedin" link="https://linkedin.com/in/sujithar37" color="#0d94e7" %}
+{% include button.html text="Mail me" icon="email" link="beadevops@gmail.com" color="#0d94e7" %}
 
 
 <!--
