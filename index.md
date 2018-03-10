@@ -19,6 +19,7 @@ _Don't miss any updates, subscribe via_
 <form action="https://getsimpleform.com/messages?form_api_token=dee0f98f95fcc19cf601d5c23e3f0dab" method="post">   
   <input type="email" placeholder="Your email" id="email"/>
   <input type="submit" value="Subscribe" id="submit"/>
+  <input type='hidden' name='redirect_to' value='./thanks.md' />
 </form>
 
 <!--
