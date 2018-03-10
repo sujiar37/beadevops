@@ -16,14 +16,11 @@ Pick up the topics and explore it ,
 {% include button.html text="Linux" icon="linux" link="https://www.beadevops.com/404.md" color="#E8900D" %} {% include button.html text="K8's" icon="kubernetes" link="https://www.beadevops.com/linux/404.md" color="#0366d6" %} {% include button.html text="Docker" icon="docker" link="https://www.beadevops.com/404.md" color="#17959B" %} {% include button.html text="Scripting" icon="bash" link="https://www.beadevops.com/404.md" color="#190B07" %} {% include button.html text="Cloud" icon="cloud" link="https://www.beadevops.com/404.md" color="#4175B2" %} {% include button.html text="Playbooks" icon="ansible" link="https://www.beadevops.com/404.md" color="#ED364F" %} {% include button.html text="Asterisk" icon="asterisk" link="https://www.beadevops.com/404.md" color="#A8933A" %} {% include button.html text="WWW" icon="www" link="https://www.beadevops.com/404.md" color="#0DD577" %} {% include button.html text="Monitoring" icon="alert" link="https://www.beadevops.com/404.md" color="#FF0000" %}
 
 
-Don't miss any future updates, Subscribe via ,
-
-<form action="https://getsimpleform.com/messages?form_api_token=dee0f98f95fcc19cf601d5c23e3f0dab" method="post">
-  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
-  <!-- all your input fields here.... -->
-  <input type='text' name='test' />
-  <input type='submit' value='Test form' />
+Don't miss any updates, subscribe via dropping your email address <form action="https://getsimpleform.com/messages?form_api_token=dee0f98f95fcc19cf601d5c23e3f0dab" method="post">
+    <li class="contact-li">
+        <input type="email" placeholder="Your email" id="email"/>
+        <input type="submit" value="Subscribe" id="submit"/>
+    </li>
 </form>
 
 <!--
