@@ -87,11 +87,11 @@ avatarurl: "https://s.gravatar.com/avatar/207c2d2be4f2d40fc12f1fbaa26de059?s=80"
 # 8. Site navigation
 navigation_header:
   Home: /
-  Elements: /elements/
-  Blog: /blog/
-  Categories: /categories/
-  Search: /search/
-  Fork Alembic: https://github.com/sujiar37
+#  Elements: /elements/
+#  Blog: /blog/
+# Categories: /categories/
+#  Search: /search/
+#  Fork Alembic: https://github.com/sujiar37
 
 navigation_footer:
   Created by Sujith Abdul Rahim: https://www.beadevops.com
