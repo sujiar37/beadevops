@@ -50,8 +50,8 @@ body {
   background-size: cover;
   background-position: center;
   .container {
-    min-height: 35vh;
-    max-width: 60%;
+    min-height: 50vh;
+    max-width: 100%;
     @include flex-direction(column);
     @include justify-content(center);
   }
