@@ -88,10 +88,10 @@ avatarurl: "https://s.gravatar.com/avatar/207c2d2be4f2d40fc12f1fbaa26de059?s=80"
 navigation_header:
   Home: /
   About Me: /about/
+  Search: /search/
 #  Elements: /elements/
 #  Blog: /blog/
 # Categories: /categories/
-#  Search: /search/
 #  Fork Alembic: https://github.com/sujiar37
 
 navigation_footer:
