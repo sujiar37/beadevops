@@ -6,6 +6,7 @@ body {
   display: flex;
   @include flex-direction(column);
   overflow-x: hidden;
+  text-align: justify;
 }
 
 .container {
