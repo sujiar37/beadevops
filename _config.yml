@@ -87,6 +87,7 @@ avatarurl: "https://s.gravatar.com/avatar/207c2d2be4f2d40fc12f1fbaa26de059?s=80"
 # 8. Site navigation
 navigation_header:
   Home: /
+  About Me: /about/
 #  Elements: /elements/
 #  Blog: /blog/
 # Categories: /categories/
