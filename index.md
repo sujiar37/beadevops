@@ -9,11 +9,11 @@ excerpt: "BeaDevOps would be helpful for someone who really keen to learn new te
 
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"e6df26b91031e73637d1d259f","lid":"c6a8a8b8a9"}) })</script>
 
-A very walm welcome to My website ~ *BeaDevOps*
+Welcome to My website ~ *BeaDevOps*
 
-Myself, *Sujith Abdul Rahim* and I am extermely passionate about learning and understanding differnet kind of DevOps concepts, tools and their activities. I hope this site and it's contents would be helpful for outside peoples who really keen to learn interesting stuffs related with these technolgies. More over, I love knowledge sharing and writing such tutorials helps me to get more deeper understanding about these topics. This site has been built through *[Jkeyll](https://jekyllrb.com/)* running under *[Containers](https://www.docker.com/)* and contents are hosted in [Github](https://github.com/sujiar37/beadevops). Happy Learning ~ *A fan boy of Linux & OpenSource*
+Myself, *Sujith Abdul Rahim* and I love spending time more on digging DevOps , Programmimng, Linux, Automation & Cloud related stuffs. This site is built through *[Jkeyll](https://jekyllrb.com/)* running with *[Containers](https://www.docker.com/)* and contents were hosted in [Github](https://github.com/sujiar37/beadevops). The contents and tutorials that I put in here is going to be an own reference for me which helps me in later time if I wish to go through. More importantly. Knowledge is meant to be shared and that's what most people love. If someone could take advantage about these contents, then I will be glad as well. Please don't forget to subscript to not miss any new tutorial / interesting stuffs 
 
-Pick up the topics and explore it ,
+Here are the few topics which I came across , dig it !!! 
 
 <table cellspacing="0" style="border-spacing: 0;font-size: 1rem;">
 	<tr>
