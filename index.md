@@ -7,6 +7,8 @@ feature_image: "https://images.unsplash.com/photo-1438480478735-3234e63615bb?ixl
 excerpt: "BeaDevOps would be helpful for someone who really keen to learn new tecnhnologies which demands in most IT sectors."
 ---
 
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"e6df26b91031e73637d1d259f","lid":"c6a8a8b8a9"}) })</script>
+
 A very walm welcome to My website ~ *BeaDevOps*
 
 Myself, *Sujith Abdul Rahim* and I am extermely passionate about learning and understanding differnet kind of DevOps concepts, tools and their activities. I hope this site and it's contents would be helpful for outside peoples who really keen to learn interesting stuffs related with these technolgies. More over, I love knowledge sharing and writing such tutorials helps me to get more deeper understanding about these topics. This site has been built through *[Jkeyll](https://jekyllrb.com/)* running under *[Containers](https://www.docker.com/)* and contents are hosted in [Github](https://github.com/sujiar37/beadevops). Happy Learning ~ *A fan boy of Linux & OpenSource*
@@ -30,8 +32,6 @@ Pick up the topics and explore it ,
 		<td><p style="text-align: -webkit-center">{% include button.html text="Hosting" icon="www" link="https://www.beadevops.com/404.md" color="#162946" width="100%" text-align="center" display="inline-flex" %}</p></td>
 	</tr>
 </table>
-
-<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"e6df26b91031e73637d1d259f","lid":"c6a8a8b8a9"}) })</script>
 
 <!---
 _Don't miss any updates, subscribe via_
