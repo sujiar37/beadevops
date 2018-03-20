@@ -13,7 +13,7 @@ Welcome to My website ~ *BeaDevOps*
 
 Myself, *Sujith Abdul Rahim* and I love spending more time on digging DevOps , Programming, Linux, Automation & Cloud related stuffs. This site is built through *[Jkeyll](https://jekyllrb.com/)* running with *[Containers](https://www.docker.com/)* and contents were hosted in [Github](https://github.com/sujiar37/beadevops). The contents and tutorials that I put in here is meants to be an own reference for me in later time if I wish to go through. More importantly. Knowledge is meant to be shared and that's what most people love. If someone could take advantage about these contents, then I will be glad as well. Please do subscribe to join the mailing list to keep watch on any new tutorial / interesting stuffs.
 
-Here are the few topics which I came across , dig it {% include icon.html icon-custom="icon-gambling" %}
+Here are the few topics which I came across , dig it !!!
 
 <table cellspacing="0" style="border-spacing: 0;font-size: 1rem;">
 	<tr>
