@@ -7,13 +7,13 @@ feature_image: "https://images.unsplash.com/photo-1438480478735-3234e63615bb?ixl
 excerpt: "BeaDevOps would be helpful for someone who really keen to learn new tecnhnologies which demands in most IT sectors."
 ---
 
-<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"e6df26b91031e73637d1d259f","lid":"c6a8a8b8a9"}) })</script>
+{% include site-subscribe.html %}
 
 Welcome to My website ~ *BeaDevOps*
 
-Myself, *Sujith Abdul Rahim* and I love spending more time on digging DevOps , Programming, Linux, Automation & Cloud related stuffs. This site is built with *[Jkeyll](https://jekyllrb.com/)* running under *[Containers](https://www.docker.com/)*, where the site files  are hosted in [Github](https://github.com/sujiar37/beadevops). The contents and tutorials that I put in here is meants to be an own reference for me in later time if I wish to go through. More importantly. Knowledge is meant to be shared and that's what most people love. If someone could take advantage with these materials, then I will be glad as well. Please do subscribe to join the mailing list to keep an eye on any new tutorial / interesting stuffs.
+Myself, *Sujith Abdul Rahim* and I love spending more time on exploring DevOps , Programming, Linux, Automation & Cloud related stuffs. This site is built with *[Jkeyll](https://jekyllrb.com/)* running under *[Containers](https://www.docker.com/)*, where the site files  are hosted in [Github](https://github.com/sujiar37/beadevops). The contents and tutorials that I put in here is for my own references and site visitors. More importantly, knowledge is meant to be shared and that's what most people love. If someone take advantage with these materials, then I'm *Glad*.
 
-Here are the few topics which I came across , dig it !!!
+Here are the few topics which I came across , way to GO !!! Do subscribe to keep an eye on every site updates.
 
 <table cellspacing="0" style="border-spacing: 0;font-size: 1rem;">
 	<tr>
@@ -32,12 +32,3 @@ Here are the few topics which I came across , dig it !!!
 		<td><p style="text-align: -webkit-center">{% include button.html text="Hosting" icon="www" link="https://www.beadevops.com/404.md" color="#162946" width="100%" text-align="center" display="inline-flex" %}</p></td>
 	</tr>
 </table>
-
-<!---
-_Don't miss any updates, subscribe via_
-<form action="https://getsimpleform.com/messages?form_api_token=dee0f98f95fcc19cf601d5c23e3f0dab" method="post">   
-  <input type="email" placeholder="Your email address" name="email:" style="width:65%;">
-  <input type="submit" value="Subscribe">
-  <input type='hidden' name='redirect_to' value='https://www.beadevops.com/thanks/' />
-</form>
--->
