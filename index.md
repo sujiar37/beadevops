@@ -33,7 +33,7 @@ Pick up the topics and explore it ,
 
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"e6df26b91031e73637d1d259f","lid":"c6a8a8b8a9"}) })</script>
 
-<!--
+<!---
 _Don't miss any updates, subscribe via_
 <form action="https://getsimpleform.com/messages?form_api_token=dee0f98f95fcc19cf601d5c23e3f0dab" method="post">   
   <input type="email" placeholder="Your email address" name="email:" style="width:65%;">
