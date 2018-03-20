@@ -13,7 +13,23 @@ Myself, *Sujith Abdul Rahim* and I am extermely passionate about learning and un
 
 Pick up the topics and explore it ,
 
-<p style="text-align: -webkit-center;"> {% include button.html text="Linux" icon="linux" link="https://www.beadevops.com/404.md" color="#E8900D" %} {% include button.html text="Kubernetes" icon="kubernetes" link="https://www.beadevops.com/linux/404.md" color="#0366d6" %} {% include button.html text="Docker" icon="docker" link="https://www.beadevops.com/404.md" color="#17959B" %} {% include button.html text="Scripting" icon="bash" link="https://www.beadevops.com/404.md" color="#190B07" %} {% include button.html text="Cloud" icon="cloud" link="https://www.beadevops.com/404.md" color="#20C5EF" %} {% include button.html text="Playbooks" icon="ansible" link="https://www.beadevops.com/404.md" color="#5E0B14" %} {% include button.html text="Asterisk" icon="asterisk" link="https://www.beadevops.com/404.md" color="#A8933A" %} {% include button.html text="Monitoring" icon="alert" link="https://www.beadevops.com/404.md" color="#FF0000" %} {% include button.html text="Web Hosting" icon="www" link="https://www.beadevops.com/404.md" color="#162946" %} </p>
+<table cellspacing="0" style="border-spacing: 0;font-size: 1rem;">
+	<tr>
+		<td><p style="text-align: -webkit-centeri;">{% include button.html text="Linux" icon="linux" link="https://www.beadevops.com/404.md" color="#E8900D" width="100%" text-align="center" display="inline-flex" %}</p></td>
+		<td><p style="text-align: -webkit-centeri;">{% include button.html text="Kubernetes" icon="kubernetes" link="https://www.beadevops.com/linux/404.md" color="#0366d6" width="100%" text-align="center" display="inline-flex" %}</p></td>
+		<td><p style="text-align: -webkit-centeri;">{% include button.html text="Docker" icon="docker" link="https://www.beadevops.com/404.md" color="#17959B" width="100%" text-align="center" display="inline-flex" %}</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align: -webkit-center">{% include button.html text="Scripting" icon="bash" link="https://www.beadevops.com/404.md" color="#190B07" width="100%" text-align="center" display="inline-flex" %}</p></td>
+		<td><p style="text-align: -webkit-center">{% include button.html text="Cloud" icon="cloud" link="https://www.beadevops.com/404.md" color="#20C5EF" width="100%" text-align="center" display="inline-flex" %}</p></td>
+		<td><p style="text-align: -webkit-center">{% include button.html text="Playbooks" icon="ansible" link="https://www.beadevops.com/404.md" color="#5E0B14" width="100%" text-align="center" display="inline-flex" %}</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align: -webkit-center">{% include button.html text="Asterisk" icon="asterisk" link="https://www.beadevops.com/404.md" color="#A8933A" width="100%" text-align="center" display="inline-flex" %}</p></td>
+		<td><p style="text-align: -webkit-center">{% include button.html text="Monitoring" icon="alert" link="https://www.beadevops.com/404.md" color="#FF0000" width="100%" text-align="center" display="inline-flex" %}</p></td>
+		<td><p style="text-align: -webkit-center">{% include button.html text="Hosting" icon="www" link="https://www.beadevops.com/404.md" color="#162946" width="100%" text-align="center" display="inline-flex" %}</p></td>
+	</tr>
+</table>
 
 _Don't miss any updates, subscribe via_
 <form action="https://getsimpleform.com/messages?form_api_token=dee0f98f95fcc19cf601d5c23e3f0dab" method="post">   
