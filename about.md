@@ -1,3 +1,4 @@
 ---
-title: About Me - Sujith Abdul Rahim
+title: About Me !!!
+layout: page
 ---
