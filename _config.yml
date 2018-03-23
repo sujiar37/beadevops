@@ -82,11 +82,12 @@ baseurl: ""
 repo: "https://github.com/sujiar37/beadevops"
 email: "beadevops@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-avatarurl: "https://s.gravatar.com/avatar/207c2d2be4f2d40fc12f1fbaa26de059?s=80" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+avatarurl: "/assets/avatar-suj.jpeg" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
 # 8. Site navigation
 navigation_header:
   Home: /
+  Contents: /contents
   About Me: /about/
   Search: /search/
 #  Elements: /elements/
@@ -98,7 +99,7 @@ navigation_footer:
   Created by Sujith Abdul Rahim: https://www.beadevops.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/sujithar37
+#  Twitter: https://twitter.com/sujithar37
   LinkedIn: https://www.linkedin.com/in/sujithar37
 #  Google+: https://plus.google.com/+sujithar37
   facebook: https://www.facebook.com/sujithar37  
@@ -107,7 +108,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
-  Twitter: "#0d94e7"
+#  Twitter: "#0d94e7"
   facebook: "#3B5998"
 #  Google+: "#DC4E41"
   # Pinterest: "#BD081C"
