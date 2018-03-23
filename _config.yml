@@ -87,7 +87,7 @@ avatarurl: "/assets/avatar-suj.jpeg" # Uses avatars for favicons to get multple 
 # 8. Site navigation
 navigation_header:
   Home: /
-  Contents: /contents
+  Contents: /contents/
   About Me: /about/
   Search: /search/
 #  Elements: /elements/
