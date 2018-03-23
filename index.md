@@ -17,7 +17,7 @@ Here are the few topics which I came across , way to GO !!! Do subscribe to keep
 
 <table cellspacing="0" style="border-spacing: 0;font-size: 1rem;table-layout: fixed;">
 	<tr>
-		<td><p style="text-align: -webkit-centeri;">{% include button.html text="Linux" icon="linux" link="https://www.beadevops.com/404.md" color="#E8900D" width="100%" text-align="center" display="inline-flex" border="outset" border-color="floralwhite" %}</p></td>
+		<td><p style="text-align: -webkit-centeri;">{% include button.html text="Linux" icon="linux" link="https://www.beadevops.com/linux.md" color="#E8900D" width="100%" text-align="center" display="inline-flex" border="outset" border-color="floralwhite" %}</p></td>
 		<td><p style="text-align: -webkit-centeri;">{% include button.html text="Kubernetes" icon="kubernetes" link="https://www.beadevops.com/linux/404.md" color="#0366d6" width="100%" text-align="center" display="inline-flex" border="outset" border-color="floralwhite" %}</p></td>
 		<td><p style="text-align: -webkit-centeri;">{% include button.html text="Docker" icon="docker" link="https://www.beadevops.com/404.md" color="#17959B" width="100%" text-align="center" display="inline-flex" border="outset" border-color="floralwhite" %}</p></td>
 	</tr>
