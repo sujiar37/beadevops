@@ -69,12 +69,13 @@ baseurl: ""
 repo: "https://github.com/sujiar37/beadevops"
 email: "beadevops@gmail.com"
 avatarurl: "/assets/avatar-suj.jpeg" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 6. Site navigation
 navigation_header:
   Home: /
   Categories: /categories/
-  About Me: /about/
+  About: /about/
   Portfolio: /portfolio/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
