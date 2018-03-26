@@ -1,4 +1,5 @@
 ---
-title: About Me !!!
-layout: page
 ---
+{% include site-aside.html %}
+
+{% include site-subscribe.html %}

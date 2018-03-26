@@ -4,4 +4,4 @@ indexing: false
 sitemap: false
 ---
 
-Thanks for getting in touch!
+Thanks for getting in touch! ~ BeaDevOps
