@@ -10,7 +10,7 @@ excerpt: "BeaDevOps would be helpful for someone who really keen to learn new te
 
 Welcome to My website ~ *BeaDevOps*
 
-Myself, **Sujith Abdul Rahim** and I love spending more time on exploring DevOps , Programming, Linux, Automation & Cloud related stuffs. This site is built with *[Jkeyll](https://jekyllrb.com/)* running under *[Containers](https://www.docker.com/)*, where the site files  are hosted in [Github](https://github.com/sujiar37/beadevops). The contents and tutorials that I put in here is for my own references and site visitors. More importantly, knowledge is meant to be shared and that's what most people love. If someone take advantage with these materials, then I'm *Glad*.
+Myself, **Sujith Abdul Rahim** and I love spending more time on exploring DevOps , Programming, Linux, Automation & Cloud related stuffs. This site is built with *[Jekyll](https://jekyllrb.com/)* running under *[Containers](https://www.docker.com/)*, where the site files  are hosted in [Github](https://github.com/sujiar37/beadevops). The contents and tutorials that I put in here is for my own references and site visitors. More importantly, knowledge is meant to be shared and that's what most people love. If someone take advantage with these materials, then I'm *Glad*.
 
 Here are the few topics which I came across , way to GO !!! Do subscribe to keep an eye on every site updates.
 
