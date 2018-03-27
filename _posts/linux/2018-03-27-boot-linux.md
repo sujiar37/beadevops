@@ -13,6 +13,6 @@ It is important to understand booting process of Linux systems. The entire proce
 
   > Bios performs **POST** [ *power on self test* ] to make sure hardwares all are working fine and also retrieve the informations such as date, time etc from **CMOS** [ *Complementary Metal-Oxide Semiconductor* ]. It will then look for valid MBR and execute portion *sector0* which is the first *512 bytes* of partitioned data storage such as *Hard Disk* or *CD-ROM* etc.
 
-                            &darr;
+  >>>>>>>>>>>>>>>>>&darr;
 
-  > MBR
+  > MBR stands for
