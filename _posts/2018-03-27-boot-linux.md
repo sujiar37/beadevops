@@ -1,7 +1,9 @@
 ---
-title: Linux Boot process - Bit explained
 category: Linux
+layout: post
 ---
+
+### Linux Boot process - Bit explained
 
 It is important to understand booting process of Linux systems. The entire process is consist of 6 phases as follows,
 
