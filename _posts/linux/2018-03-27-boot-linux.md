@@ -4,12 +4,11 @@ category: Linux
 layout: post
 ---
 It is important to understand booting process of Linux systems. The entire process is consist of 6 phases as follows,
-  1. BIOS - *Basic input output system*
-  2. MBR - Master Boot Record
-  3. LILO - *Linux Loader* **or** GRUB - *Grand Unified Loader*
-  4. Kernel - *Central Core of the Operating System*
-  5. Init **or** Systemd - *First Process which is started*
-  6. Runlevels - *Tell me the mode*
+  1. BIOS [ *Basic input output system* ]
+  2. MBR [ *Master Boot Record* ]
+  3. LILO - [ *Linux Loader* **or** GRUB - *Grand Unified Loader* ]
+  4. Kernel - [ *Central Core of the Operating System* ]
+  5. Init **or** Systemd - [ *First Process which is started* ]
+  6. Runlevels - [ *Tell me the mode* ]
 
-
-
+> Bios performs **POST** [ *power on self test* ] to make sure hardwares all are working fine and also retrieve informations such as date, time etc from **CMOS** [ *Complementary Metal-Oxide Semiconductor* ]. It will then look for valid MBR and and execute the *sector 0* which is the first *512 bytes* partitioned data storage such as *Hard Disk* or *CD-ROM* etc
