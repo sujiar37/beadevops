@@ -1,6 +1,5 @@
 ---
 category: Linux
-layout: post
 ---
 
 ### Linux Boot process - Bit explained
