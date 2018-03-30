@@ -15,4 +15,19 @@ It is important to understand the booting process of Linux systems. The entire p
 
   <center><h1>&darr;</h1></center>
 
-  > MBR is stands for Master Boot Record
+  > MBR is stands for Master Boot Record which meants they are in size of 512 bytes and it holds the information of boot loaders ( *LILO* or *GRUB*) and partition tables
+
+  <center><h1>&darr;</h1></center>
+
+  > *LILO* / *GRUB* both are Linux boot loaders to serve the operating system by passing control to the respective Kernel. Grub has more in feature than Lilo as it supports booting from network, interactive command interface to manage *n* number of boot entries and differnet boot options etc
+
+  <center><h1>&darr;</h1></center>
+
+  > Kernel is the heart. It initialize the devices and load initrd.img from boot loader file, also mounts root file systems.
+
+  <center><h1>&darr;</h1></center>
+
+  
+
+
+
