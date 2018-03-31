@@ -21,13 +21,13 @@ It is important to understand the booting process of Linux systems. The entire p
 
   > *LILO* / *GRUB* both are Linux boot loaders to serve the operating system by passing control to the respective Kernel. Grub has more in feature than Lilo as it supports booting from network, interactive command interface to manage *'n'* number of boot entries and differnet boot options etc
 
-  ` [root@beadevops web]# cat /boot/grub/grub.conf
+    [root@beadevops web]# cat /boot/grub/grub.conf
     default=1
     timeout=0
     title CentOS Linux 7 Rescue 756b4531ac954206ae4481f54d40d1d5 (3.10.0-693.17.1.el7.x86_64)
         root (hd0)
         kernel /boot/vmlinuz-0-rescue-756b4531ac954206ae4481f54d40d1d5 ro root=UUID=e64899eb-665e-41a9-b7da-ed5781a8b3aa console=hvc0 LANG=en_US.UTF-8
-        initrd /boot/initramfs-0-rescue-756b4531ac954206ae4481f54d40d1d5.img `
+        initrd /boot/initramfs-0-rescue-756b4531ac954206ae4481f54d40d1d5.img
 
 
   <center><h1>&darr;</h1></center>
