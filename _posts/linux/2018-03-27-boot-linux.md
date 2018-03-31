@@ -79,7 +79,7 @@ It is important to understand the booting process of Linux systems. The entire p
   ```
   <center><h1>&darr;</h1></center>
 
-  > There are 7 run levels in total and we can opt any one of those as per our needs. Most linux systems runs on run level 3 which is full multi user mode without GUI. 
+  > There are 7 run levels in total and we can opt any one of those as per our needs. Most linux systems runs on run level 3 which is the full multi user mode without GUI. 
 
   ```text
      0 - Halt / Poweroff
