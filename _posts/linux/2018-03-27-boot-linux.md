@@ -84,7 +84,7 @@ It is important to understand the booting process of Linux systems. The entire p
   ```text
      0 - Halt / Poweroff
      1 - Single User / Rescue mode
-     2 - Multiuser withoy NFS( No Networking` )
+     2 - Multiuser withoy NFS( No Networking )
      3 - Full multiuser mode with Networking ( No GUI )
      4 - Unused / User-Definable mode
      5 - As run level 3 + GUI
