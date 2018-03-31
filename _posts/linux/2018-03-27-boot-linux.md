@@ -90,3 +90,5 @@ It is important to understand the booting process of Linux systems. The entire p
      5 - As run level 3 + GUI
      6 - Reboot
   ```
+
+{% include site-subscribe.html %}
