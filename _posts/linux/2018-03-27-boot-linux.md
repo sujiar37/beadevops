@@ -1,5 +1,5 @@
 ---
-title: Linux Boot process - Bit explained
+title: Linux Boot process - An Overview
 category: Linux
 layout: post
 ---
@@ -19,16 +19,18 @@ It is important to understand the booting process of Linux systems. The entire p
 
   <center><h1>&darr;</h1></center>
 
-  > *LILO* / *GRUB* both are Linux boot loaders to serve the operating system by passing control to the respective Kernel. Grub has more in feature than Lilo as it supports booting from network, interactive command interface to manage *'n'* number of boot entries and differnet boot options etc
+  > *LILO* / *GRUB* both are Linux boot loaders to serve the operating system by passing control to the respective Kernel. Grub has more in feature than Lilo as it supports different OS, booting from network, interactive command interface to manage *'n'* number of boot entries and differnet boot options etc
 
-    [root@beadevops web]# cat /boot/grub/grub.conf
+  ```bash
+    [root@beadevops ~]# cat /boot/grub/grub.conf
+    # Sample GRUB Config File ~ BeaDevOps
     default=1
     timeout=0
     title CentOS Linux 7 Rescue 756b4531ac954206ae4481f54d40d1d5 (3.10.0-693.17.1.el7.x86_64)
         root (hd0)
         kernel /boot/vmlinuz-0-rescue-756b4531ac954206ae4481f54d40d1d5 ro root=UUID=e64899eb-665e-41a9-b7da-ed5781a8b3aa console=hvc0 LANG=en_US.UTF-8
         initrd /boot/initramfs-0-rescue-756b4531ac954206ae4481f54d40d1d5.img
-
+  ``` 
 
   <center><h1>&darr;</h1></center>
 
@@ -36,6 +38,44 @@ It is important to understand the booting process of Linux systems. The entire p
 
   <center><h1>&darr;</h1></center>
 
+  > *systemd* / *init* are the first process (*pid 1* ) run through kernel to execute the targeted runlevel of an Operating System. Init is replaced with Systemd in the latest version of linux releases today. 
+
+  ```bash
+      [root@beadevops ~]# cat /etc/inittab
+      # Sample Inittab file ~ BeaDevOps
+
+      # inittab is only used by upstart for the default runlevel.
+      # Default runlevel. The runlevels used are:
+      #   0 - halt (Do NOT set initdefault to this)
+      #   1 - Single user mode
+      #   2 - Multiuser, without NFS (The same as 3, if you do not have networking)
+      #   3 - Full multiuser mode
+      #   4 - unused
+      #   5 - X11
+      #   6 - reboot (Do NOT set initdefault to this)
+      #
+      id:3:initdefault:
+  ```
+
+  ```bash
+      [root@beadevops ~]# cat /etc/systemd/system/default.target
+      # Sample Systemd file ~ BeaDevOps
+      
+      #  This file is part of systemd.
+      #
+      #  systemd is free software; you can redistribute it and/or modify it
+      #  under the terms of the GNU Lesser General Public License as published by
+      #  the Free Software Foundation; either version 2.1 of the License, or
+      #  (at your option) any later version.
+
+      [Unit]
+      Description=Multi-User System
+      Documentation=man:systemd.special(7)
+      Requires=basic.target
+      Conflicts=rescue.service rescue.target
+      After=basic.target rescue.service rescue.target
+      AllowIsolate=yes
+  ```
 
 
 
