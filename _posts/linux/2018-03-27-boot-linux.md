@@ -19,7 +19,7 @@ It is important to understand the booting process of Linux systems. The entire p
 
   <center><h1>&darr;</h1></center>
 
-  > *LILO* / *GRUB* both are Linux boot loaders to serve the operating system by passing control to the respective Kernel. Grub has more in feature than Lilo as it supports different OS, booting from network, interactive command interface to manage *'n'* number of boot entries and differnet boot options etc
+  > *LILO* / *GRUB* both are Linux boot loaders to serve the operating system by passing control to the respective Kernel. Grub has more in feature than Lilo as it supports different OS, booting from network, interactive command interface to manage *'n'* number of boot entries and differnet boot options etc.
 
   ```bash
     [root@beadevops ~]# cat /boot/grub/grub.conf
@@ -84,13 +84,9 @@ It is important to understand the booting process of Linux systems. The entire p
   ```text
      0 - Halt / Poweroff
      1 - Single User / Rescue mode
-     2 - Multiuser withoy NFS( *no networking* )
-     3 - Full multiuser mode with Networking ( *No GUI* )
+     2 - Multiuser withoy NFS( No Networking` )
+     3 - Full multiuser mode with Networking ( No GUI )
      4 - Unused / User-Definable mode
      5 - As run level 3 + GUI
      6 - Reboot
   ```
-
-
-
-
