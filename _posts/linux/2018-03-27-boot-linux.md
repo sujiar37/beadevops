@@ -24,6 +24,7 @@ It is important to understand the booting process of Linux systems. The entire p
   ```bash
     [root@beadevops ~]# cat /boot/grub/grub.conf
     # Sample GRUB Config File ~ BeaDevOps
+
     default=1
     timeout=0
     title CentOS Linux 7 Rescue 756b4531ac954206ae4481f54d40d1d5 (3.10.0-693.17.1.el7.x86_64)
@@ -60,7 +61,7 @@ It is important to understand the booting process of Linux systems. The entire p
   ```bash
       [root@beadevops ~]# cat /etc/systemd/system/default.target
       # Sample Systemd file ~ BeaDevOps
-      
+
       #  This file is part of systemd.
       #
       #  systemd is free software; you can redistribute it and/or modify it
@@ -76,6 +77,20 @@ It is important to understand the booting process of Linux systems. The entire p
       After=basic.target rescue.service rescue.target
       AllowIsolate=yes
   ```
+  <center><h1>&darr;</h1></center>
+
+  > There are 7 run levels in total and we can opt any one of those as per our needs. Most linux systems runs on run level 3 which is full multi user mode without GUI. 
+
+  ```text
+     0 - Halt / Poweroff
+     1 - Single User / Rescue mode
+     2 - Multiuser withoy NFS( *no networking* )
+     3 - Full multiuser mode with Networking ( *No GUI* )
+     4 - Unused / User-Definable mode
+     5 - As run level 3 + GUI
+     6 - Reboot
+  ```
+
 
 
 
