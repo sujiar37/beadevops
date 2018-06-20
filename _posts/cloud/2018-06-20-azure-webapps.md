@@ -29,7 +29,7 @@ Let's deploy a Webapp and host some files on it in azure. Here are the steps we 
  
 > Feature Topics : Stay tuned, How ?
 <center><h1>&darr;</h1></center>
-* Webapps can Scale and provide HA ?
+* Webapps can be Scaled and provide HA ?
 * SSL can be mapped ?
-* Different environments can be manage with zero downtime using swap feature ?
+* Different environments can be manageable with zero downtime using swap feature ?
 
