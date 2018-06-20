@@ -9,8 +9,9 @@ Azure Web app services are pretty direct forward to host your applications runs 
 Let's deploy a Webapp and host some files on it in azure. Here are the steps we need to perform ,
 
 1) Login to Azure portal -> Go to App services -> Choose Webapp from that list since we are going to use that
- 
-   {% include figure.html image= https://docs.microsoft.com/en-us/azure/app-service/media/app-service-web-get-started-php/php-docs-hello-world-app-service-list.png width="300" height="800" %}
+
+   {% include figure.html image="https://docs.microsoft.com/en-us/azure/app-service/media/app-service-web-get-started-php/php-docs-hello-world-app-service-list.png" caption="Image with caption" width="300" height="800" %}
+
 
 2) 
 
