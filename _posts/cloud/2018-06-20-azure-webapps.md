@@ -27,5 +27,9 @@ Let's deploy a Webapp and host some files on it in azure. Here are the steps we 
 {% include figure.html image="https://docs.microsoft.com/en-us/azure/app-service/media/app-service-deployment-credentials/deployment_credentials_configure.png" caption="deployment credentials" width="567" height="297" %}
 
  
-
+> Feature Topics : Stay tuned, How ?
+<center><h1>&darr;</h1></center>
+* Webapps can Scale and provide HA ?
+* SSL can be mapped ?
+* Different environments can be manage with zero downtime using swap feature ?
 
