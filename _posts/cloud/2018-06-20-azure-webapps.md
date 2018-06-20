@@ -7,7 +7,7 @@ layout: post
 **Prerequisites knowledge : [Manage files via Git [clone, commit & push]](https://services.github.com/on-demand/downloads/github-git-cheat-sheet/ ), [Access azure portal](https://azure.microsoft.com/en-in/services/app-service/),[how to use ftp for upload/download](https://wiki.filezilla-project.org/Using)** 
 
 
-Azure Web app services are pretty direct forward to host your applications runs in any of the languages such as **.NET, Node.js, PHP, Java, Python & HTML** in a cloud ready basis. We really dont have to manage the infrastrture since it is cloud ready, secure and supports load balancing, autoscaling, and automated management. Applications run and scale with ease on Windows and Linux based environments and perform actions such as like continuous deployment from VSTS, GitHub, Docker Hub, and other sources, package management, staging environments, custom domain, and SSL certificates.
+Azure Web app services are pretty direct forward to host your applications runs in any of the languages such as **.NET, Node.js, PHP, Java, Python & HTML** in a cloud ready basis. We really dont have to manage the infrasturture since it is cloud ready, secure and supports load balancing, autoscaling & automated management. Applications run and scale with ease on Windows and Linux based environments and perform actions such as like continuous deployment from VSTS, GitHub, Docker Hub, and other sources, package management, staging environments, custom domain, and SSL certificates.
 
 Let's deploy a Webapp and host some files on it in azure. Here are the steps we need to perform ,
 
@@ -20,5 +20,5 @@ Let's deploy a Webapp and host some files on it in azure. Here are the steps we 
 
    {% include figure.html image="https://docs.microsoft.com/en-us/azure/app-service/media/app-service-web-get-started-php/php-docs-hello-world-app-service-detail.png" caption="webapps inner view" width="567" height="297" %}  
 <center><h1>&darr;</h1></center>
-3) In the above 'webapps inner view', we could see all details related with our app services. *URL* represents an end point to call our application via browser, *git clone url & ftp url* can be used to access and deploy our website files.  
+3) In the above 'webapps inner view', we could see all details related with our app services. **URL** represents an end point to call our application via browser, **git clone url & ftp url** can be used to access and deploy our website files.  
 
