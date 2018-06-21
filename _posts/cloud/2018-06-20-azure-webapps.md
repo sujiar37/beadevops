@@ -9,7 +9,7 @@ layout: post
 
 Azure Web app services are pretty direct forward to host your application runs in any of the languages such as **.NET, Node.js, PHP, Java, Python & HTML** in a cloud ready basis. We really dont have to manage the infrasturture since it is cloud ready, secure and supports load balancing, autoscaling & automated management. Applications run and scale with ease on Windows and Linux based environments and perform actions such as continuous deployment from VSTS/ GitHub/ Docker Hub and other sources etc. Also, it supports package management, staging environments, custom domain, and SSL certificates.
 
-Let's deploy a Webapp and host some files on it in azure. Here are the steps we need to perform for doing this,
+Let's deploy a Webapp and host some files on it in azure. Note that we are hosting static contents instead of Dynamic data, however it is possible when you opt *webapp+sql* package. Here are the steps we need to perform for hosting static contents ,
 
 1) Login to Azure portal -> Go to App services -> Choose Webapp from the list it provides
 <center><h1>&darr;</h1></center>
@@ -29,6 +29,7 @@ Let's deploy a Webapp and host some files on it in azure. Here are the steps we 
  
 > Feature Topics : Stay tuned, How ?
 <center><h1>&darr;</h1></center>
+* Configure hosting with own domain name instead of what azure provides ?
 * Webapps can be Scaled and provide HA ?
 * SSL can be mapped ?
 * Different environments can be manageable with zero downtime using swap feature ?
