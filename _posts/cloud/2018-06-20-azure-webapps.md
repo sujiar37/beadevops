@@ -26,7 +26,7 @@ Let's deploy a Webapp and host some files on it in azure. Note that we are hosti
 <center><h1>&darr;</h1></center>
 4) We can update our authentication details to upload/download website files via deployment tab. Finally the webfiles can access via the **URL endpoint [ https://Appname.azurewebsites.net/myfile.php ]**
 
-{% include figure.html image="https://docs.microsoft.com/en-us/azure/app-service/media/app-service-deployment-credentials/deployment_credentials_configure.png" caption="deployment credentials" width="567" height="297" %}
+{% include figure.html image="https://drive.google.com/uc?export=view&id=1Kop3xyW8hjgE2GcmtkcsqCoVbFydaGN_" caption="deployment credentials" width="567" height="297" %}
 
  
 > Feature Topics : Stay tuned, How ?
