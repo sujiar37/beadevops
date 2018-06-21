@@ -21,4 +21,4 @@ By default azure webapp endpoint URL looks like *https://yourappname.azurewebsit
 ```text
 www     CNAME       appname.azurewebsites.net
 ```
-4) Finally call the webapp via your domain name, ie; **www.yourdomainname.com**
+4) Finally call the webapp via your domain name, ie; **www.your_domain_name.com**
