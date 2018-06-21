@@ -12,6 +12,8 @@ Azure Web app services are pretty direct forward to host your application runs i
 Let's deploy a Webapp and host some files on it in azure. Note that we are hosting static contents instead of Dynamic data, however it is possible when you opt *webapp+sql* package. Here are the steps we need to perform for hosting static contents ,
 
 1) Login to Azure portal -> Go to App services -> Choose Webapp from the list it provides
+
+   {% include figure.html image="https://drive.google.com/uc?export=view&id=10wbSJFg20uF0AtsVxopEnLvrsjKO6mJr" width="567" height="297" %}
 <center><h1>&darr;</h1></center>
 2) Fill out the necessary details such as App name, Subscription and the resource group which belongs to etc. We can also opt for the Operating system and service plan/location for our application needs. Currently they have limited region availability for Linux/Docker OS. However, they have muliple regions available for windows OS.
 
