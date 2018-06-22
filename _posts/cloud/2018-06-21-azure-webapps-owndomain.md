@@ -27,7 +27,7 @@ By default, azure webapp endpoint URL looks like *https://yourappname.azurewebsi
     - Finally call the webapp via your domain name, ie; **www.your_domain_name.com**
 
 - #### SSL Certificate
-    - Make sure we are in the right app service plan. Currently custom SSL binding support for Basic, Standard, or Premium tier plans. Check more about this via [app-service tiers](https://azure.microsoft.com/en-us/pricing/details/app-service/windows/).
+    - Make sure we are in the right app service plan. Custom SSL binding supports only for Basic, Standard, or Premium tier plans. Check more about this via [app-service tiers](https://azure.microsoft.com/en-us/pricing/details/app-service/windows/).
         <center><h1>&darr;</h1></center>
     - SSL basics for a domain name were *Generate CSR with private keys -> contact SSL vendor with that CSR -> Get CRT & CA certificates -> Configure the CRT & CA using private keys in web applications such as apache/ nginx/ tomcat etc*.
         <center><h1>&darr;</h1></center>
