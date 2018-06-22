@@ -15,8 +15,7 @@ By default, azure webapp endpoint URL looks like *https://yourappname.azurewebsi
    {% include figure.html image="https://drive.google.com/uc?export=view&id=1nOZGlY1ed6KM-s7fdz04BR6EYVwF2TEF" caption="webapps - SSL Settings" width="567" height="297" %}  
 <center><h1>&darr;</h1></center>
 
-- Custom Domain
-    -
+- ## Custom Domain
     - We can go ahead either *buy domain* option if you aren't owned with any domains / select *Add hostname* and put our domain details over it . It is necessary to update these details, so that azure will start accepting any request related with that domain name.
         <center><h1>&darr;</h1></center>    
     - Final thing is DNS update, and it needs to be done from the registrar end for that particular domain name you have been added in azure. Go to registrar -> edit the DNS -> add CNAME record for that domain like below ( relace *appname* with the respecive app service you built )
@@ -27,8 +26,7 @@ By default, azure webapp endpoint URL looks like *https://yourappname.azurewebsi
         <center><h1>&darr;</h1></center>
     - Finally call the webapp via your domain name, ie; **www.your_domain_name.com**
 
-- SSL Certificate
-    -
+- ## SSL Certificate
     - Make sure we are in the right app service plan. Currently custom SSL binding support for Basic, Standard, or Premium tier plans. Check more about this via [app-service tiers](https://azure.microsoft.com/en-us/pricing/details/app-service/windows/).
 
     - SSL basics for a domain name were *Generate CSR with private keys -> contact SSL vendor with that CSR -> Get CRT & CA certificates -> Configure the CRT & CA using private keys in web applications such as apache/ nginx/ tomcat etc*.
@@ -43,7 +41,7 @@ By default, azure webapp endpoint URL looks like *https://yourappname.azurewebsi
         openssl pkcs12 -export -out your_domain_name.pfx -inkey your_domain_name.key -in your_domain_name.crt -certfile CA_your_domain_name.crt
         ```
         <center><h1>&darr;</h1></center>
-    - Now we have *PFX* formatted file, let's upload it in azure webapps area
-
+    - Now we have *PFX* formatted file - your_domain_name.pfx, let's upload it in azure webapps area
+    
         {% include figure.html image="https://drive.google.com/uc?export=view&id=1qoWbHou8TgINnnz8I4Aq-3aIG_15mID8" caption="Webapps - SSL Settings" width="567" height="297" %}
     
