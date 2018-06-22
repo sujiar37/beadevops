@@ -28,11 +28,13 @@ Let's deploy a Webapp and host some files on it in azure. Note that we are hosti
 
 {% include figure.html image="https://drive.google.com/uc?export=view&id=1Kop3xyW8hjgE2GcmtkcsqCoVbFydaGN_" caption="deployment credentials" width="567" height="297" %}
 
- 
+
+- Related Topics
+    -
+    - [Azure Web Apps - With Own Domain & SSL](https://www.beadevops.com/cloud/2018/06/21/azure-webapps-owndomain/)
+
 > Feature Topics : Stay tuned, How ?
-<center><h1>&darr;</h1></center>
-* Configure hosting with own domain name instead of what azure provides ?
+    <center><h1>&darr;</h1></center>
 * Webapps can be Scaled and provide HA ?
-* SSL can be mapped ?
 * Different environments can be manageable with zero downtime using swap feature ?
 
