@@ -33,7 +33,7 @@ Let's deploy a Webapp and host some files on it in azure. Note that we are hosti
     - [Azure Web Apps - With Own Domain & SSL](https://www.beadevops.com/cloud/2018/06/21/azure-webapps-owndomain/)
 
 > Feature Topics : Stay tuned, How ?
-    <center><h1>&darr;</h1></center>
+<center><h1>&darr;</h1></center>
 * Webapps can be Scaled and provide HA ?
 * Different environments can be manageable with zero downtime using swap feature ?
 
