@@ -43,6 +43,6 @@ By default, azure webapp endpoint URL looks like *https://yourappname.azurewebsi
         <center><h1>&darr;</h1></center>
     - Now we have *PFX* formatted file - your_domain_name.pfx, let's upload it in azure webapps area
 
-        {% include figure.html image="https://drive.google.com/uc?export=view&id=1qoWbHou8TgINnnz8I4Aq-3aIG_15mID8" caption="webapps - Custom domain name" width="567" height="297" %}
+    {% include figure.html image="https://drive.google.com/uc?export=view&id=1qoWbHou8TgINnnz8I4Aq-3aIG_15mID8" caption="webapps - Custom domain name" width="567" height="297" %}
 
     
