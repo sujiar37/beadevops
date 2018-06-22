@@ -29,8 +29,7 @@ Let's deploy a Webapp and host some files on it in azure. Note that we are hosti
 {% include figure.html image="https://drive.google.com/uc?export=view&id=1Kop3xyW8hjgE2GcmtkcsqCoVbFydaGN_" caption="deployment credentials" width="567" height="297" %}
 
 
-- Related Topics
-    -
+- #### Related Topics
     - [Azure Web Apps - With Own Domain & SSL](https://www.beadevops.com/cloud/2018/06/21/azure-webapps-owndomain/)
 
 > Feature Topics : Stay tuned, How ?
