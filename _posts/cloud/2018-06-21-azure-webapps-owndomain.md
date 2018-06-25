@@ -1,7 +1,6 @@
 ---
 title: Azure Web Apps - With Own Domain & SSL
 category: Cloud
-layout: post
 ---
 
 **Prerequisites knowledge** : [Azure Web Apps - An Overview](https://www.beadevops.com/cloud/2018/06/20/azure-webapps/) , [Create free SSL certificates and save some bucks](https://letsencrypt.org/getting-started/)

@@ -1,7 +1,6 @@
 ---
 title: Azure Web Apps - An Overview
 category: Cloud
-layout: post
 ---
 
 **Prerequisites knowledge : [Manage files via Git [clone, commit & push]](https://services.github.com/on-demand/downloads/github-git-cheat-sheet/ ),  [Access azure portal](https://azure.microsoft.com/en-in/services/app-service/), [how to use ftp for upload/download](https://wiki.filezilla-project.org/Using)** 

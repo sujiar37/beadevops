@@ -1,7 +1,6 @@
 ---
 title: Linux Boot process - An Overview
 category: Linux
-layout: post
 ---
 It is important to understand the booting process of Linux systems. The entire process is consist of 6 phases as follows,
   1. BIOS [ *Basic input output system* ]
