@@ -41,6 +41,6 @@ By default, azure webapp endpoint URL looks like *https://yourappname.azurewebsi
         openssl pkcs12 -export -out your_domain_name.pfx -inkey your_domain_name.key -in your_domain_name.crt -certfile CA_your_domain_name.crt
         ```
         <center><h1>&darr;</h1></center>
-    - Now we have *PFX* formatted file - your_domain_name.pfx, let's upload it in azure webapps area
+    - Now we have *PFX* formatted file - your_domain_name.pfx, let's upload it in azure webapps area and access the domain name through https.
 
 {% include figure.html image="https://drive.google.com/uc?export=view&id=1qoWbHou8TgINnnz8I4Aq-3aIG_15mID8" caption="Webapps - SSL Settings" width="567" height="297" %}
