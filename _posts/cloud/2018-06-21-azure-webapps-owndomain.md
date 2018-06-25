@@ -1,6 +1,6 @@
 ---
 title: Azure Web Apps - With Own Domain & SSL
-category: cloud
+category: Cloud
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Azure Web Apps - An Overview
-category: cloud
+category: Cloud
 layout: post
 ---
 
