@@ -4,6 +4,7 @@ date: 2018-03-27 00:00:00 +05:30
 categories:
 - Linux
 layout: post
+comments: true
 ---
 
 It is important to understand the booting process of Linux systems. The entire process is consist of 6 phases as follows,

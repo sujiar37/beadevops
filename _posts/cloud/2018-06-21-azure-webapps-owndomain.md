@@ -4,6 +4,7 @@ date: 2018-06-21 00:00:00 +05:30
 categories:
 - Cloud
 layout: post
+comments: true
 ---
 
 **Prerequisites knowledge** : [Azure Web Apps - An Overview](https://www.beadevops.com/cloud/2018/06/20/azure-webapps/) , [Create free SSL certificates and save some bucks](https://letsencrypt.org/getting-started/)
