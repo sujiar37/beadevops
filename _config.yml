@@ -51,7 +51,7 @@ logo: "/assets/favicon-new.jpg"
 description: Choose a job you love and you'll never have to work a day in your life
   ~ Confucious
 url: https://www.beadevops.com
-baseurl: ''
+baseurl: 
 repo: https://github.com/sujiar37/beadevops
 email: beadevops@gmail.com
 avatarurl: "/assets/avatar-suj.jpeg"
@@ -69,4 +69,4 @@ social_links:
 sharing_links:
   facebook: "#3B5998"
   LinkedIn: "#0077B5"
-  Email: ''
+  Email: 
