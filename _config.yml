@@ -56,7 +56,7 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Asia/Kolkota # Timezone for blog posts and alike
+timezone: Asia/Kolkata # Timezone for blog posts and alike
 
 # 5. Site settings
 encoding: utf-8 # Make sure the encoding is right
