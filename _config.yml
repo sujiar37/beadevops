@@ -1,0 +1,72 @@
+---
+title: BeaDevOps
+timezone: Asia/Kolkata
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+remote_theme: sujiar37/beadevops
+exclude:
+- README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- alembic-jekyll-theme.gemspec
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+paginate: 2
+paginate_path: blog/page:num
+jekyll-mentions: https://twitter.com
+twitter:
+  username: Sujith Abdul Rahim
+author: Sujith Abdul Rahim
+social:
+  name: Sujith Abdul Rahim
+  links:
+  - https://www.facebook.com/sujithar37
+  - https://www.linkedin.com/in/sujithar37
+  - https://github.com/sujiar37
+sass:
+  style: compressed
+permalink: pretty
+excerpt_separator: "<!-- more -->"
+encoding: utf-8
+lang: en-GB
+logo: "/assets/favicon-new.jpg"
+description: Choose a job you love and you'll never have to work a day in your life
+  ~ Confucious
+url: https://www.beadevops.com
+baseurl: 
+repo: https://github.com/sujiar37/beadevops
+email: beadevops@gmail.com
+avatarurl: "/assets/avatar-suj.jpeg"
+css_inline: true
+navigation_header:
+  Home: "/"
+  Categories: "/categories/"
+  About: "/about/"
+  Portfolio: "/portfolio/"
+social_links:
+  LinkedIn: https://www.linkedin.com/in/sujithar37
+  facebook: https://www.facebook.com/sujithar37
+  GitHub: https://github.com/sujiar37
+  RSS: "/feed.xml"
+sharing_links:
+  facebook: "#3B5998"
+  LinkedIn: "#0077B5"
+  Email: 
