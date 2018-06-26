@@ -1,17 +1,14 @@
-# Site configuration
-# 1. Files excluded from Jekyll builds
-# 2. Installed Gems
-# 3. Gem settings
-# 4. Jekyll settings
-# 5. Collections
-# 6. Jekyll collections settings
-# 7. Site settings
-# 8. Site navigation
-
-
+---
+title: BeaDevOps
+timezone: Asia/Kolkata
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 remote_theme: sujiar37/beadevops
-#remote_theme: daviddarnes/alembic
-# 1. Files excluded from Jekyll builds
 exclude:
 - README.md
 - CODE_OF_CONDUCT.md
@@ -22,8 +19,6 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - alembic-jekyll-theme.gemspec
-
-# 2. Installed Gems
 plugins:
 - jekyll-sitemap
 - jekyll-mentions
@@ -34,62 +29,44 @@ plugins:
 - jekyll-feed
 - jemoji
 - jekyll-remote-theme
-
-# 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
-paginate_path: blog/page:num # jekyll-paginate > blog page
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+paginate: 2
+paginate_path: blog/page:num
+jekyll-mentions: https://twitter.com
 twitter:
-  username: Sujith Abdul Rahim # jekyll-seo-tag > Owners twitter username
-author: Sujith Abdul Rahim # jekyll-seo-tag > default author
-social: # jekyll-seo-tag > social overrides
-  name: Sujith Abdul Rahim # jekyll-seo-tag > real name
-  links:  # jekyll-seo-tag > social aliases (sameAs)
-#    - https://twitter.com/sujithar37
-    - https://www.facebook.com/sujithar37
-    - https://www.linkedin.com/in/sujithar37
-#    - https://plus.google.com/+sujithar37
-    - https://github.com/sujiar37
-
-# 4. Jekyll settings
+  username: Sujith Abdul Rahim
+author: Sujith Abdul Rahim
+social:
+  name: Sujith Abdul Rahim
+  links:
+  - https://www.facebook.com/sujithar37
+  - https://www.linkedin.com/in/sujithar37
+  - https://github.com/sujiar37
 sass:
-  style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Asia/Kolkata # Timezone for blog posts and alike
-
-# 5. Site settings
-encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
-title: "BeaDevOps" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/favicon-new.jpg" # Site logo, also used in jekyll-seo-tag
-description: "Choose a job you love and you'll never have to work a day in your life ~ Confucious" # Site description and default description, also used in jekyll-seo-tag
-url: "https://www.beadevops.com" # Site url, also used in jekyll-seo-tag
-baseurl: ""
-repo: "https://github.com/sujiar37/beadevops"
-email: "beadevops@gmail.com"
-avatarurl: "/assets/avatar-suj.jpeg" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
-css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
-
-# 6. Site navigation
+  style: compressed
+permalink: pretty
+excerpt_separator: "<!-- more -->"
+encoding: utf-8
+lang: en-GB
+logo: "/assets/favicon-new.jpg"
+description: Choose a job you love and you'll never have to work a day in your life
+  ~ Confucious
+url: https://www.beadevops.com
+baseurl: ''
+repo: https://github.com/sujiar37/beadevops
+email: beadevops@gmail.com
+avatarurl: "/assets/avatar-suj.jpeg"
+css_inline: true
 navigation_header:
-  Home: /
-  Categories: /categories/
-  About: /about/
-  Portfolio: /portfolio/
-
-social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-#  Twitter: https://twitter.com/sujithar37
+  Home: "/"
+  Categories: "/categories/"
+  About: "/about/"
+  Portfolio: "/portfolio/"
+social_links:
   LinkedIn: https://www.linkedin.com/in/sujithar37
-#  Google+: https://plus.google.com/+sujithar37
-  facebook: https://www.facebook.com/sujithar37  
+  facebook: https://www.facebook.com/sujithar37
   GitHub: https://github.com/sujiar37
-#  link: https://www.beadevops.com
-  RSS: /feed.xml
-
-sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
-#  Twitter: "#0d94e7"
+  RSS: "/feed.xml"
+sharing_links:
   facebook: "#3B5998"
-#  Google+: "#DC4E41"
   LinkedIn: "#0077B5"
-  Email: ""
+  Email: ''

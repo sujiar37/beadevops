@@ -1,6 +1,8 @@
 ---
 title: Azure Web Apps - An Overview
-category: Cloud
+date: 2018-06-20 00:00:00 +05:30
+categories:
+- Cloud
 layout: post
 ---
 

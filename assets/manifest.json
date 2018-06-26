@@ -1,6 +1,7 @@
 ---
-permalink: "manifest.json"
+permalink: manifest.json
 ---
+
 {
   "lang": "{{ site.lang | default: "en-US" }}",
   "name": "{{ site.title }}",

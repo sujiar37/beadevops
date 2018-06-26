@@ -3,7 +3,8 @@ feature_text: |
   ## Be ~ a ~ DevOps
   Choose a job you love and you'll never have to work a day in your life.
 feature_image: "/assets/devops.jpg"
-excerpt: "BeaDevOps would be helpful for someone who really keen to learn new tecnhnologies which demands in most IT sectors."
+excerpt: BeaDevOps would be helpful for someone who really keen to learn new tecnhnologies
+  which demands in most IT sectors.
 ---
 
 {% include site-subscribe.html %}

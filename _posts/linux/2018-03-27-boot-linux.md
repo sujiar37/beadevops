@@ -1,8 +1,11 @@
 ---
 title: Linux Boot process - An Overview
-category: Linux
+date: 2018-03-27 00:00:00 +05:30
+categories:
+- Linux
 layout: post
 ---
+
 It is important to understand the booting process of Linux systems. The entire process is consist of 6 phases as follows,
   1. BIOS [ *Basic input output system* ]
   2. MBR [ *Master Boot Record* ]

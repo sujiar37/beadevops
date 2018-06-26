@@ -1,6 +1,7 @@
 ---
 layout: categories
-excerpt: "Category index"
+excerpt: Category index
 aside: true
 ---
+
 {% include site-search.html %}

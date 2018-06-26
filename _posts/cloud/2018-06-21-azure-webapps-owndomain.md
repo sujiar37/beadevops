@@ -1,6 +1,8 @@
 ---
 title: Azure Web Apps - With Own Domain & SSL
-category: Cloud
+date: 2018-06-21 00:00:00 +05:30
+categories:
+- Cloud
 layout: post
 ---
 
